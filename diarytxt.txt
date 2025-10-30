@@ -1,0 +1,5 @@
+wed, oct 29, 2025: 
+53  - Maximum Subarray
+21  - Merge Two Sorted Lists
+49  - Group Anagrams
+121 - Best Time to Buy and Sell Stock
