@@ -1,5 +1,15 @@
 wed, oct 29, 2025: 
-53  - Maximum Subarray
-21  - Merge Two Sorted Lists
-49  - Group Anagrams
-121 - Best Time to Buy and Sell Stock
+53  - Arrays and Strings - Maximum Subarray
+21  -    Linked Lists    - Merge Two Sorted Lists
+49  -  Hashmaps and Sets - Group Anagrams
+121 - Arrays and Strings - Best Time to Buy and Sell Stock
+
+thu, oct 30, 2025:
+347 -  Hashmaps and Sets - Top K frequent elements
+141 -    Linked Lists    - Linked List Cycle
+155 -  Stacks and Queues - Min Stack
+20  -  Stacks and Queues - Valid Parentheses
+
+fri, oct 31, 2025:
+94  -       Trees        - Binary Tree Inorder Traversal
+102 -       Trees        - Binary Tree Level Order Traversal
