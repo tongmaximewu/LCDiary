@@ -24,3 +24,4 @@ sun, nov 02, 2025:
 1   - Arrays And Strings - Two Sum
 3   - Arrays And Strings - Longest Substring Without Repeating Characters
 560 -  Hashmaps and Sets - Subarray Sum equals K
+739 -  Stacks and Queues - Daily temperatures
