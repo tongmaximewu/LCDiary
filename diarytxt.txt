@@ -13,3 +13,14 @@ thu, oct 30, 2025:
 fri, oct 31, 2025:
 94  -       Trees        - Binary Tree Inorder Traversal
 102 -       Trees        - Binary Tree Level Order Traversal
+104 -       Trees        - Maximum depth of a binary tree
+
+sat, nov 01, 2025:
+133 -       Graphs       - Clone graph
+
+sun, nov 02, 2025:
+200 -       Graphs       - Number of islands
+19  -    Linked Lists    - Remove Nth Node From End of List
+1   - Arrays And Strings - Two Sum
+3   - Arrays And Strings - Longest Substring Without Repeating Characters
+560 -  Hashmaps and Sets - Subarray Sum equals K
