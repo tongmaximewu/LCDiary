@@ -31,3 +31,17 @@ mon, nov 03, 2025:
 78  -    Backtracking    - Subsets
 90  -    Backtracking    - Subsets II
 207 -       Graphs       - Course Schedule
+
+wed, nov 12, 2025:
+Biggest Single Number
+Sales Person
+Classes With at Least 5 Students
+Customer Placing the Largest Number of Orders
+Find Customer Referee
+Employee Bonus
+Game Play Analysis I
+Delete Duplicate Emails
+Customers Who Never Order
+Duplicate Emails
+Employees Earning More Than Their Managers
+Combine Two Tables
