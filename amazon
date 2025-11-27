@@ -1,1 +1,2 @@
-
+875 koko eating bananas : binary search using right as max pile of bananas
+41 first missing positive integer : use 3 for loops, first clean up the list, second find the present integers, return the missing one
